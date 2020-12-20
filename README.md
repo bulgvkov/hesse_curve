@@ -16,9 +16,16 @@
 
 ## Тесты 
 
-1 Проверить, что результирующая точка Q лежит на кривой.<br/>
-2 Проверить, что [q]P = O, где q – порядок группы точек.<br/>
-3 Проверить, что [q + 1]P = P и [q − 1]P = −P.<br/>
-4 Для двух случайных k1, k2 проверить, что [k1]P + [k2]P = [k1 + k2]P.<br/>
+1. Проверить, что результирующая точка Q лежит на кривой.<br/>
+2. Проверить, что [q]P = O, где q – порядок группы точек.<br/>
+3. Проверить, что [q + 1]P = P и [q − 1]P = −P.<br/>
+4. Для двух случайных k1, k2 проверить, что [k1]P + [k2]P = [k1 + k2]P.<br/>
 
-![скриншот тестов](https://github.com/bulgvkov/hesse_curve/blob/main/screenshotOfTests.png)
+![скриншот тестов](https://github.com/bulgvkov/hesse_curve/blob/main/screenshotOfTests.png)<br/>
+
+## Источники
+1. https://hyperelliptic.org/EFD/g1p/auto-hessian.html<br/>
+2. https://ru.qaz.wiki/wiki/Hessian_form_of_an_elliptic_curve<br/>
+3. Лекции по предмету “Программирование алгоритмов защиты информации”.<br/>
+2020 (Преподаватель: Нестеренко А.Ю.).<br/>
+4. Мануал библиотеки gmp (https://gmplib.org).<br/>
