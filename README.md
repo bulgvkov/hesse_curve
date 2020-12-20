@@ -26,8 +26,8 @@
 ![скриншот тестов](https://github.com/bulgvkov/hesse_curve/blob/main/screenshotOfTests.png)<br/>
 
 ## Источники
-1. https://hyperelliptic.org/EFD/g1p/auto-hessian.html<br/>
-2. https://ru.qaz.wiki/wiki/Hessian_form_of_an_elliptic_curve<br/>
+1. https://hyperelliptic.org/EFD/g1p/auto-hessian.html.<br/>
+2. https://ru.qaz.wiki/wiki/Hessian_form_of_an_elliptic_curve.<br/>
 3. Лекции по предмету “Программирование алгоритмов защиты информации”.<br/>
 2020 (Преподаватель: Нестеренко А.Ю.).<br/>
 4. Мануал библиотеки gmp (https://gmplib.org).<br/>
